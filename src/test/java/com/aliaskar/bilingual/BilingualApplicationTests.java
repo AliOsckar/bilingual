@@ -1,0 +1,13 @@
+package com.aliaskar.bilingual;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BilingualApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
