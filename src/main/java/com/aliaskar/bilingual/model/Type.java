@@ -1,0 +1,16 @@
+package com.aliaskar.bilingual.model;
+
+/**
+ * Created by Admin on 30.04.2022
+ */
+public enum Type {
+    SELECT_REAL_ENGLISH_WORDS,
+    LISTEN_AND_SELECT_REAL_ENGLISH_WORD,
+    TYPE_WHAT_YOU_HEAR,
+    DESCRIBE_IMAGE,
+    RECORD_SAYING_STATEMENT,
+    RESPOND_IN_AT_LEAST_N_WORDS,
+    HIGHLIGHT_THE_ANSWER,
+    SELECT_MAIN_IDEA,
+    SELECT_BEST_TITLE
+}
