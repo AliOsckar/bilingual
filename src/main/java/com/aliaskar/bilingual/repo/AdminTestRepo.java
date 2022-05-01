@@ -10,6 +10,7 @@ import java.util.List;
  */
 
 public interface AdminTestRepo extends JpaRepository<TestEntity, Long> {
+
     List<TestEntity>findAllByActiveTrue();
 
 }
